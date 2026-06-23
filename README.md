@@ -8,7 +8,7 @@ The idea is to write a program that would allow an agent to navigate to the goal
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Project Preview
 
 - Python Notebook: [RL_JANATI_KHERMOUCHE.ipynb](./RL_JANATI_KHERMOUCHE.ipynb)
 - Report: [RL_JANATI_KHERMOUCHE_DS2E.pdf](./RL_JANATI_KHERMOUCHE_DS2E.pdf)
